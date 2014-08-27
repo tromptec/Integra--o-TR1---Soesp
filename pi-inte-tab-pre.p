@@ -8,7 +8,7 @@
 * Alteracoes
 * 
 ******************************************************************************/
-
+asdasdasd
 /* Includes */
 {trinc/proc-gerais.i}
 {trinc/webservice.i tr1_webservice_itemPortType} /*M‚todo para incluir Tabela de pre‡o*/
